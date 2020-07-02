@@ -1,13 +1,6 @@
 ## Hazal A. Kara
 
-My name is Hazal. 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+My name is Hazal. I'm Turkish-American and a junior at Hisar School in Istanbul. My main passions are science and literature. On this site you can find some of the projects I'm involved in. 
 
 # Header 1
 ## Header 2
